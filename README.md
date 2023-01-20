@@ -1,6 +1,6 @@
 ## 👻 Welcome!
 <div style="display: inline_block" align="justify">
-"teste" - Apple, 1997.
+Trabalho com sistemas embarcados destinados a IOT e desenvolvo app's mobile no tempo livre a fim de ganhar experiência.
 </div>
 
 ## 🧭 Back-end:
